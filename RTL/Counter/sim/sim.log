@@ -1,0 +1,465 @@
+
+========== 2026-10-15 10:16:58.945417 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /media/sf_ShareFolder/lab2
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:17:23.739246 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /media/sf_ShareFolder/lab2
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:17:27.704903 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /media/sf_ShareFolder/lab2
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:21:24.809426 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /media/sf_ShareFolder/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:21:27.113841 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /media/sf_ShareFolder/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:22:37.309857 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:22:38.787365 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:22:40.072887 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:31:44.673415 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Remove obj_dir ...
+✓ Sucessfully remove obj_dir 
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:31:48.062748 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:32:09.009490 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:32:09.992947 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:32:10.668678 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:32:13.477817 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:32:14.883809 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
+
+========== 2026-10-15 10:38:05.577554 ==========
+Detected OS: Linux
+Found SDL2: sdl2-config
+SDL CFLAGS: -I/usr/include/SDL2 -D_REENTRANT
+SDL LIBS: -lSDL2
+Start simulation...
+Include directories used: /home/rainy/desktop/lab2/RTL
+---------------------------------
+Step 0: Clean up previously generated files...
+Tip: The obj_dir folder does not exist, no need to clean it up
+---------------------------------
+Step 1: Run Verilator Compiler...
+%Error-TIMESCALEMOD: DevelopmentBoard.v:20:13: Timescale missing on this module as other modules have it (IEEE 1800-2017 3.14.2.2)
+                     DevelopmentBoard.v:3:8: ... Location of module with timescale
+    3 | module DevelopmentBoard(
+      |        ^~~~~~~~~~~~~~~~
+%Error: Exiting due to 1 error(s)
+        ... See the manual and https://verilator.org for more assistance.
+Error: Verilator compilation failed!
+Possible causes:
+1. Not provide correct path of RTLs
+2. Verilator is not installed
+   - Ubuntu: sudo apt install build-essential verilator
+   - macOS:  brew install verilator
+3. SDL2 is not installed
+   - Ubuntu: sudo apt install libsdl2-dev
+   - macOS:  brew install sdl2
+4. The code contains syntax errors
